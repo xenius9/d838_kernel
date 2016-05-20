@@ -20,7 +20,8 @@ cp ramdisk/ramdisk.cpio.lz4 work/kernel/out/
 
 
 
-
+# build modules
+./modules.sh
 
 
 
